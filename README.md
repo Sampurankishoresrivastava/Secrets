@@ -33,8 +33,8 @@ An app where a user can sign up and write messages anonymously.
 * A user can also logout from the app when the message has been posted
 
 # Screenshots
-![preview](public/img/preview.png)
-
+![preview](public/css/img/preview.png)
+<!-- Secrets/public/css/img/preview.png -->
 
 * **Register Page**
 ![register](https://user-images.githubusercontent.com/90759917/183292534-48197272-0112-45e6-b1a6-7f8d11db7ba2.png)
