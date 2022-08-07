@@ -37,21 +37,21 @@ An app where a user can sign up and write messages anonymously.
 <!-- Secrets/public/css/img/preview.png -->
 
 * **Register Page**
-![register](https://user-images.githubusercontent.com/90759917/183292534-48197272-0112-45e6-b1a6-7f8d11db7ba2.png)
+![register](public/css/img/register.png)
 
 
 * **Login Page**
-![login](https://user-images.githubusercontent.com/90759917/183292571-043ae36a-0519-44ba-9415-29ef273d4d16.png)
+![login](public/css/img/login.png)
 
 
 * **Page when a user log in**
-![mainpage](https://user-images.githubusercontent.com/90759917/183292585-b07af465-f13b-49fc-8ac1-8b4785e1eaf1.png)
+![mainpage](public/css/img/mainpage.png)
 
 
 * **Page where a user can type a secret**
-![secretssubmit](https://user-images.githubusercontent.com/90759917/183292596-0b5fbbfc-e0a6-4bfc-9996-7cdf0858bf12.png)
+![secretssubmit](public/css/img/secretssubmit.png)
 
 
 
 * **User posts a secret**
-![final](https://user-images.githubusercontent.com/90759917/183292602-1d058fab-adbd-4958-9693-11c0f1b5b7b5.png)
+![final](public/css/img/final.png)
