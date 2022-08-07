@@ -1,5 +1,5 @@
 # Secrets
-🤐 An app where a user can sign up and write messages anonymously.
+An app where a user can sign up and write messages anonymously.
 
 # Idea
 * Many people today want to comment something or say something online without revealing their identity
